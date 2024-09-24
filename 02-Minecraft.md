@@ -1,6 +1,6 @@
 # Minecraft
 
-### [Guida ai controlli](01-Indice.md), ultima revisione 11/9/2024
+### [Guida ai controlli](README.md), ultima revisione 11/9/2024
 
 É giusto pensare ai controlli cheats, come una branca dell’informatica forense, ma a differenza delle indagini di forensica digitale, i controlli cheats sono legati molto al gioco che li ospita in primo luogo. Ecco perché qui vi spiego da un punto di vista di tecnico, il gioco Minecraft, insieme ai vari tipi di cheats che ci possiamo aspettare.
 

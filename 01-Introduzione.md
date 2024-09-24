@@ -1,6 +1,6 @@
 # Introduzione ai controlli cheats
 
-### [Guida ai controlli](01-Indice.md), ultima revisione 11/9/2024
+### [Guida ai controlli](README.md), ultima revisione 11/9/2024
 
 Un caldo benvenuto da parte mia e da tutta la community SS a chiunque tu sia, che hai deciso di leggere questa guida. Prima di iniziare ci tengo a precisare due cose:
 

@@ -1,6 +1,6 @@
 # I processi e la memoria RAM
 
-### [Guida ai controlli](01-Indice.md), ultima revisione 11/9/2024
+### [Guida ai controlli](README.md), ultima revisione 11/9/2024
 
 I processi sono la parte più importante nel mondo dei controlli e della forensica digitale. I processi sono le istanze di un programma _(.exe per windows)_ in esecuzione. I processi vengono gestiti nella CPU, dal PCB _(Process Control Block)_ e il TCB _(Thread control block)_. Questi, gestiscono rispettivamente processi e thread e hanno informazioni sulla loro memoria, il loro ultimo avvio, le loro risorse e così via. Una applicazione come "Task Manager", indica tutti i processi che sono in esecuzione, ma si limita ad indicare i processi e il loro impatto sull’hardware _(percentuale di ram usata, cpu etc..)_. Per avere una visione più dettagliata, possiamo usare programmi come "Process Explorer" dalla Sysinternal suite e tanti altri simili. Il più utilizzato in ambito controlli è proprio "System Informer" _(ex. Process Hacker)_. Da notare è il fatto che, parlando di Windows, stiamo interagendo con un sistema proprietario e non saremo mai in possesso del codice sorgente di tale sistema operativo. Ciò implica che le nostre capacità di indagine si limitano a questi programmi offerti da queste persone. Non si riesce ad ottenere in modo semplice qualsiasi tipo di informazione se non fornita dalla "Windows API".
 

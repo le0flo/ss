@@ -1,6 +1,6 @@
 # Metodi bypass e come trovarli
 
-### [Guida ai controlli](01-Indice.md), ultima revisione 11/9/2024
+### [Guida ai controlli](README.md), ultima revisione 11/9/2024
 
 In questo capitolo della guida, abbiamo un elenco accurato con ogni metodo detect e bypass mai stato usato nella community dagli inizi ad oggi. Questa parte non sarebbe stata possibile senza l’aiuto di alcuni collaboratori, tutti elencati con i crediti rispettivi nella conclusione. Questa parte della guida andrebbe visualizzata solo e soltanto se i concetti base sono stati ben assimilati. É importante perché questa parte è molto pratica e le spiegazioni non possono essere troppo lunghe, quindi è necessario che le tecniche che si vorranno usare in controllo, siano almeno capite al massimo delle loro potenzialità, ciò richiede dunque uno studio attento della teoria generale. Detto questo dividerò questo capitolo in due grandi categorie:
 

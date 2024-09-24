@@ -1,6 +1,6 @@
 # I file system e il journaling
 
-### [Guida ai controlli](01-Indice.md), ultima revisione 11/9/2024
+### [Guida ai controlli](README.md), ultima revisione 11/9/2024
 
 Cos’è un file system?
 
