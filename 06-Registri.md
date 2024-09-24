@@ -1,6 +1,6 @@
 # Registri ed Eventi di windows
 
-### [Guida ai controlli](01-Indice.md), ultima revisione 11/9/2024
+### [Guida ai controlli](README.md), ultima revisione 11/9/2024
 
 Abbiamo visto come analizzare i processi, il disco fisso, il prefetch e tanto altro nel dettaglio, ma ancora una o meglio due cose fondamentali mancano all’appello. I registri e gli eventi di Windows. Sono entrambi degli artefatti che sono implementati dentro Windows, e in questo capitolo vedremo cosa sono, come utilizzarli e alcune peculiarità.
 

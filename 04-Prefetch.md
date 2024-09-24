@@ -1,6 +1,6 @@
 # Prefetch
 
-### [Guida ai controlli](01-Indice.md), ultima revisione 11/9/2024
+### [Guida ai controlli](README.md), ultima revisione 11/9/2024
 
 Il prefetch è un sistema pensato per originariamente per aumentare la velocità con cui un programma si avvia, e tutto questo è possibile perché ad ogni avvia di un programma, un file prefetch _(.pf)_ viene salvato nella cartella `C:\Windows\Prefetch` con nome il nome dell’eseguibile, seguito da una serie di 8 cifre esadecimali. Questi due blocchi sono separati da "-". All’interno di questo file prefetch, vengono immagazzinate le seguenti informazioni:
 

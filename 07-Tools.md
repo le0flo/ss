@@ -1,6 +1,6 @@
 # Guida ai tools manuali
 
-### [Guida ai controlli](01-Indice.md), ultima revisione 11/9/2024
+### [Guida ai controlli](README.md), ultima revisione 11/9/2024
 
 Come descritto brevemente nella introduzione, per aiutarci nel controllo, vengono in aiuto diversi tools, automatici e manuali. Essendo i tools automatici comunque per definizione e design, semplici ed intuitivi da usare, in questo capitolo ci concentreremo solo ed esclusivamente sui tool manuali.
 
